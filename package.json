@@ -1,0 +1,22 @@
+{
+  "name": "poc-gh-pages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lossingalex/poc-gh-pages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lossingalex/poc-gh-pages/issues"
+  },
+  "homepage": "https://github.com/lossingalex/poc-gh-pages#readme",
+  "devDependencies": {
+    "gh-pages-deploy": "^0.4.2"
+  }
+}
